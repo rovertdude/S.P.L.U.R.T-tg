@@ -4,9 +4,11 @@
 
 	antag_flag = ROLE_HERETIC
 	antag_datum = /datum/antagonist/heretic
-	weight = 6
+    // SPLURT EDIT BEGIN
+	weight = 3 // formerly 6 - splurt edit
 	max_occurrences = 4
-	min_players = 20
+	min_players = 35 // formerly 20 - splurt edit
+	// SPLURT EDIT END
 
 	maximum_antags_global = 2
 
