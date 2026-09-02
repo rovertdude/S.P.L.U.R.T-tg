@@ -34,9 +34,6 @@
 /datum/round_event_control/abductor
 	tags = list(TAG_COMBAT, TAG_SPOOKY, TAG_CHAOTIC, TAG_LOW, TAG_OPFOR_ONLY)
 
-/datum/round_event_control/fugitives
-	tags = list(TAG_COMBAT, TAG_LOW, TAG_OPFOR_ONLY)
-
 /datum/round_event_control/cme
 	tags = list(TAG_DESTRUCTIVE, TAG_COMMUNAL, TAG_CHAOTIC, TAG_HIGH)
 
