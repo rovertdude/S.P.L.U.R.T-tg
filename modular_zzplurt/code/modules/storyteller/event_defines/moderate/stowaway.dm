@@ -8,6 +8,7 @@
 	tags = list(TAG_LOW)
 	max_occurrences = 2
 	min_players = 1
+	weight = 15
 	earliest_start = 0 MINUTES
 	category = EVENT_CATEGORY_INVASION
 	description = "A Stowaway will spawn on the station."
